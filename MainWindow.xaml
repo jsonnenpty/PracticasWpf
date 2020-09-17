@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <StackPanel>
-            <Button Name="pepe" Width="110"
+            <Button Name="juan" Width="110"
                     Height="65">
                 <Button.Background>
                     <LinearGradientBrush EndPoint="0.5,1"
@@ -19,8 +19,9 @@
                                       Offset="1" />
                     </LinearGradientBrush>
                 </Button.Background>
-                Hellow
-                
+                <Button.Content>
+                    mejor asi
+                </Button.Content>
             </Button>
         </StackPanel>
     </Grid>
